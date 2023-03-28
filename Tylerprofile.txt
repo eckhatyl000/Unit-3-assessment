@@ -15,8 +15,8 @@
 <br>
 
 <h1></h1>
-
+</body>
+<a href="./profile.js"> << Back </a>
 <a href="./Tyler.home.html">
     << Back </a>
 
-</body>

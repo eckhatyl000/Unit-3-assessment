@@ -36,3 +36,10 @@ input {
 img {
 	max-width: 300px;
 }
+.button-animation {
+	transition: transform 0.3s;
+}
+
+.button-animation:hover {
+	transform: scale(1.1);
+}
